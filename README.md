@@ -1,0 +1,2 @@
+# Sample
+AzureDevOpsのDocument使用時に作成するサンプルRepository。
